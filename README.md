@@ -20,4 +20,4 @@ cd f1-winner-prediction
 pip install -r requirements.txt
 
 
-python f1_pred.py
+
